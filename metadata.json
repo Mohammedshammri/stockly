@@ -1,0 +1,6 @@
+{
+  "name": "Stockly – Smart Inventory Management",
+  "description": "Smart inventory and sales management SaaS platform for small and medium-sized retail businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
